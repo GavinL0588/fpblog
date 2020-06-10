@@ -56,3 +56,5 @@ X/X/X Entry 12:
 
 Double checking everything and making sure everything is good 
 
+X/X/X Entry 13:
+Added slideshow. At first I though that it looks hard, I look at W3School and they helped me a lot.
